@@ -1,16 +1,20 @@
-# Symfony 3 Car-Rent Sample with Demo
+---
+code_name: TM-S_CAR-RENT_WEB_SYM_PHP
+create_date: 2016-01
+obsolete_date: 2016-03
+author: TM
+author_site: timsmanter.net
+project_site: sfs.timsmanter.net
+editor: PhpStorm
+language: PHP
+framework: Symfony
+locales: pl_PL
+license: MIT
+status: [Beta, Sample]
 
-* @Author: TimsManter
-* @AuthorSite: [TimsManter.NET](http://timsmanter.net/)
-* @CreateDate: 2016-01
-* @AbandonDate: 2016-03
-* @Editor: PhpStorm
-* @Language: PHP
-* @Framework: Symfony
-* @Locale: pl_PL
-* @License: [MIT](LICENSE.md)
-* @Status: Beta | Obsolete | Sample
-* @ProjectSite: [Car Rent Demo](http://sfs.timsmanter.net/)
+---
+
+# Symfony 3 Car-Rent Sample with Demo
 
 <!-- TOC -->
 
