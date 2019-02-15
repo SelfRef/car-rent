@@ -8,7 +8,7 @@ project_site: sfs.timsmanter.net
 editor: PhpStorm
 language: PHP
 framework: Symfony
-locales: pl_PL
+locale: pl_PL
 license: MIT
 status: [Beta, Sample]
 
