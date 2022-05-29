@@ -1,44 +1,27 @@
 ---
-code_name: TM-S_CAR-RENT_WEB_SYM_PHP
 create_date: 2016-01
-obsolete_date: 2016-03
-author: TM
-author_site: timsmanter.net
+archive_date: 2016-03
 project_site: sfs.timsmanter.net
-editor: PhpStorm
 language: PHP
 framework: Symfony
+editor: PhpStorm
 locale: pl_PL
 license: MIT
-status: [Beta, Sample]
+category: [PoC, Study, Web]
+dev_status: Archive
 
 ---
 
 # Symfony 3 Car-Rent Sample with Demo
 
-<!-- TOC -->
-
-- [Overview](#overview)
-- [Live Demo](#live-demo)
-  - [Accounts](#accounts)
-- [Scrrenshots](#scrrenshots)
-- [Installation](#installation)
-  - [Database](#database)
-    - [cars](#cars)
-    - [categories](#categories)
-    - [users](#users)
-- [Roles](#roles)
-
-<!-- /TOC -->
-
-## Overview
+## Description
 
 Just a simple demo which shows how to create a simple app in Symfony 3
 to rent cars by users and moderate orders.
 
 ## Live Demo
 
-URL: [sfs.timsmanter.net](http://sfs.timsmanter.net/)
+URL: sfs.timsmanter.net (offline)
 
 ### Accounts
 
@@ -58,7 +41,7 @@ Mod   |mod       |MOD
 ![](docs/screenshots/desc.png) | ![](docs/screenshots/dialog.png)
 ![](docs/screenshots/user_message.png) | ![](docs/screenshots/rent_list.png)
 
-## Installation
+## Setup
 
 1. Install Composer
 2. Clone this repository
