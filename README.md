@@ -27,7 +27,7 @@ Ania  |ania      |USER
 Stefan|stefan    |USER
 Mod   |mod       |MOD
 
-## Scrrenshots
+## Screenshots
 
 ![](docs/screenshots/main.png)
 
