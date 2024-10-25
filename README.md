@@ -1,4 +1,4 @@
----
+<!--
 create_date: 2016-01
 archive_date: 2017-04
 project_site: sfs.timsmanter.net
@@ -9,8 +9,7 @@ locale: pl_PL
 license: MIT
 category: [PoC, Study, Web]
 dev_status: Archive
-
----
+-->
 
 # Symfony 3 Car-Rent Sample with Demo
 
@@ -18,10 +17,6 @@ dev_status: Archive
 
 Just a simple demo which shows how to create a simple app in Symfony 3
 to rent cars by users and moderate orders.
-
-## Live Demo
-
-URL: sfs.timsmanter.net (offline)
 
 ### Accounts
 
